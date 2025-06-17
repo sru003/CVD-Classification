@@ -281,7 +281,7 @@ import streamlit as st
 import pandas as pd
 
 # Load your score summary HTML file
-html_path = 'score_summary.html'
+#html_path = 'score_summary.html'
 
 # Streamlit app
 st.title('Machine Learning Classifier Score Summary')
@@ -289,7 +289,7 @@ st.title('Machine Learning Classifier Score Summary')
 # Button to display the score summary
 if st.button('Show Score Summary'):
     # Read and display the HTML file
-    with open(html_path, 'r') as f:
+    with open(score_summary.html, 'r') as f:
         html_content = f.read()
     st.components.v1.html(html_content, height=600)  # Adjust height as needed
 
