@@ -281,7 +281,7 @@ import streamlit as st
 import pandas as pd
 
 # Load your score summary HTML file
-html_path = 'E:\\Minor Projects\\kaggle\\score_summary.html'
+html_path = 'score_summary.html'
 
 # Streamlit app
 st.title('Machine Learning Classifier Score Summary')
