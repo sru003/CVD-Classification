@@ -304,7 +304,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from scipy.stats import uniform
 
 # Load your dataset
-data = pd.read_csv('/Users/sruthi/Downloads/kaggle 2/heart.csv')
+data = pd.read_csv('heart.csv')
 
 # Define your features and target
 features = data.columns[:-1]
@@ -387,7 +387,7 @@ from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 
 # Load your dataset
-data = pd.read_csv('/Users/sruthi/Downloads/kaggle 2/heart.csv')
+data = pd.read_csv('heart.csv')
 
 # Define your features and target
 features = data.columns[:-1]
@@ -493,7 +493,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from lightgbm import LGBMClassifier
 
 # Load your dataset
-data = pd.read_csv('/Users/sruthi/Downloads/kaggle 2/heart.csv')
+data = pd.read_csv('heart.csv')
 features = data.columns[:-1]
 X = data[features]
 y = data['target']
@@ -538,7 +538,7 @@ from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 
 # Load your dataset
-data = pd.read_csv('/Users/sruthi/Downloads/kaggle 2/heart.csv')
+data = pd.read_csv('heart.csv')
 
 # Define your features and target
 features = data.columns[:-1]
