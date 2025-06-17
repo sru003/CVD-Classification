@@ -223,7 +223,7 @@ classifiers = [
 ]
 
 # Load dataset
-path = '/Users/sruthi/Downloads/kaggle 2/heart.csv'
+path = 'https://drive.google.com/file/d/1RUj422sUrQtEf9TAxkWovtSjMnlUlo3g/view?usp=sharing'
 data = pd.read_csv(path)
 
 # Define categorical features
