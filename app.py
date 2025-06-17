@@ -223,7 +223,7 @@ classifiers = [
 ]
 
 # Load dataset
-path = 'https://drive.google.com/file/d/1RUj422sUrQtEf9TAxkWovtSjMnlUlo3g/view?usp=sharing'
+path = 'heart.csv'
 data = pd.read_csv(path)
 
 # Define categorical features
