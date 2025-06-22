@@ -42,11 +42,11 @@ Source: Public healthcare dataset (e.g., Kaggle or UCI repository)
 🤝 Contributors
    
   Sruthi K
-     🔗 LinkedIn - https://www.linkedin.com/in/sruthi-karthikeyan-a01b96281/
-        GitHub - https://github.com/sru003
+  🔗 LinkedIn - https://www.linkedin.com/in/sruthi-karthikeyan-a01b96281/
+  🔗 GitHub - https://github.com/sru003
   Tamizharasan G C
-    🔗 LinkedIn - https://www.linkedin.com/in/tamizharasangc/
-        GitHub - https://github.com/tamizharasan1327
+  🔗 LinkedIn - https://www.linkedin.com/in/tamizharasangc/
+  🔗 GitHub - https://github.com/tamizharasan1327
      
 
 
